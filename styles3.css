@@ -1,0 +1,128 @@
+.Fe {
+    background-color: #333;
+    background-position: 100% 0;
+    background-repeat: no-repeat;
+    border: 2px solid #333;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: -apple-system,Roboto,Arial,sans-serif;
+    margin: 10px;
+    padding: 10px;
+    position: relative
+}
+
+.Ge {
+    font-size: 14px;
+    line-height: 15px
+}
+
+.Ge,.He {
+    display: flex
+}
+
+.He {
+    align-items: flex-end;
+    height: 16px;
+    justify-content: space-between;
+    padding-top: 2px
+}
+
+.Ie {
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    font-size: 7px;
+    -webkit-line-clamp: 2;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+.Je {
+    align-self: flex-start;
+    min-width: 100px;
+    text-align: right
+}
+
+.Ke {
+    display: flex;
+    flex: 1 1;
+    flex-direction: column;
+    font-size: 14px;
+    min-height: 20px;
+    position: relative
+}
+
+.Ke .Le {
+    color: #fdfdfd;
+    margin-top: -2px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: pre-line
+}
+
+.Ke .Le,.Ke .Me {
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    -webkit-line-clamp: 2
+}
+
+.Ke .Me {
+    margin-top: 5px
+}
+
+.Ne {
+    padding: 10px
+}
+
+.Ne.cta {
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content
+}
+
+.Oe {
+    font-weight: 700
+}
+
+.Pe,.Qe {
+    display: flex;
+    margin-left: 10px
+}
+
+.Qe svg {
+    fill: #fdfdfd;
+    height: 20px;
+    width: 20px
+}
+
+.Re {
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    margin-left: 15px;
+    outline: none;
+    padding: 0
+}
+
+.Se {
+    flex: none;
+    margin-right: 10px
+}
+
+.Te {
+    background: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 11px;
+    font-weight: 700;
+    outline: none;
+    padding: 8px 5px;
+    right: 0;
+    white-space: nowrap
+}
+
+.Ue {
+    margin: 10px
+}

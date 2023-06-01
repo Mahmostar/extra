@@ -1,0 +1,91 @@
+.Pf {
+    position: absolute
+}
+
+.Qf {
+    align-items: flex-start;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: row;
+    font-size: 11px;
+    font-weight: 700;
+    justify-content: flex-start;
+    left: 15px;
+    margin-bottom: 5px;
+    padding: 3px 6px;
+    top: 15px;
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    z-index: 1
+}
+
+.Rf {
+    background-color: #df2357;
+    color: #fdfdfd
+}
+
+.Sf {
+    background-color: #ff6b00;
+    color: #111
+}
+
+.Rp {
+    border: 1px solid #222;
+    border-radius: 7.5px;
+    margin: 15px 0;
+    padding-bottom: 6px;
+    position: relative;
+    text-align: center
+}
+
+.Rp,.Rp a {
+    color: #fdfdfd
+}
+
+.Rp a {
+    text-decoration: none
+}
+
+.Sp {
+    align-items: center;
+    border-bottom: 1px solid #222;
+    display: flex;
+    height: 40px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding: 0 15px
+}
+
+.Sp .Tp {
+    color: #fdfdfd;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: capitalize
+}
+
+.Sp .Up {
+    font-size: 20px
+}
+
+.Vp {
+    margin: 5px auto;
+    position: relative;
+    width: 270px
+}
+
+.Vp img {
+    border-radius: 4px
+}
+
+.Vp .Wp {
+    background: linear-gradient(0deg,#181818,hsla(0,0%,9%,0));
+    border-radius: 0 0 5px 5px;
+    bottom: 4px;
+    font-size: 16px;
+    margin: 0;
+    padding: 15px;
+    position: absolute;
+    text-align: left;
+    width: 100%
+}
